@@ -1,0 +1,74 @@
+{
+ "his_v1": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 45.158,
+  "peak": 0.4357
+ },
+ "her_v": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 55.939,
+  "peak": 0.4622
+ },
+ "his_v3": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 56.14,
+  "peak": 0.4967
+ },
+ "her_bridge": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 14.075,
+  "peak": 0.3105
+ },
+ "hook_q1": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 1.647,
+  "peak": 0.3867
+ },
+ "hook_l1": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 1.454,
+  "peak": 0.2885
+ },
+ "hook_q2": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 1.723,
+  "peak": 0.4135
+ },
+ "hook_l2": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 2.003,
+  "peak": 0.3256
+ },
+ "hook_q3": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 1.069,
+  "peak": 0.2974
+ },
+ "hook_l3": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 1.412,
+  "peak": 0.3421
+ },
+ "hook_both_q": {
+  "voice": "avocado_v2:vincent",
+  "speed": 108,
+  "seconds": 3.396,
+  "peak": 0.3875
+ },
+ "hook_both_l": {
+  "voice": "avocado_v2:MAI_01",
+  "speed": 106,
+  "seconds": 2.882,
+  "peak": 0.2988
+ }
+}

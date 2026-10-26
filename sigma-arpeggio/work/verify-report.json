@@ -1,0 +1,58 @@
+{
+ "peak": 0.8000000715255737,
+ "n_clip_ge_0999": 0,
+ "sections": [
+  {
+   "section": "intro",
+   "vocal_rms_db": -120.0,
+   "ok": true
+  },
+  {
+   "section": "his_v1",
+   "vocal_rms_db": -17.7,
+   "ok": true
+  },
+  {
+   "section": "hook",
+   "vocal_rms_db": -18.6,
+   "ok": true
+  },
+  {
+   "section": "her_v",
+   "vocal_rms_db": -17.6,
+   "ok": true
+  },
+  {
+   "section": "his_v3",
+   "vocal_rms_db": -17.5,
+   "ok": true
+  },
+  {
+   "section": "hook2",
+   "vocal_rms_db": -18.6,
+   "ok": true
+  },
+  {
+   "section": "bridge",
+   "vocal_rms_db": -18.8,
+   "ok": true
+  },
+  {
+   "section": "outro",
+   "vocal_rms_db": -120.0,
+   "ok": true
+  }
+ ],
+ "outro_am": {
+  "passed": true,
+  "peak_l_hz": 395.4976625500981,
+  "peak_r_hz": 396.5101149431311,
+  "beat_measured_hz": 1.0124523930330156,
+  "expected_l_hz": 395.5,
+  "expected_r_hz": 396.5
+ },
+ "am_window_s": [
+  265.89,
+  271.1
+ ]
+}

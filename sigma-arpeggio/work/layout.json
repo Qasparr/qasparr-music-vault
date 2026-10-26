@@ -1,0 +1,86 @@
+{
+ "layout": [
+  {
+   "section": "intro",
+   "bars": 4,
+   "start_frame": 0,
+   "start_s": 0.0,
+   "offset_hz": 1
+  },
+  {
+   "section": "his_v1",
+   "bars": 20,
+   "start_frame": 1001740,
+   "start_s": 10.435,
+   "offset_hz": 1
+  },
+  {
+   "section": "hook",
+   "bars": 8,
+   "start_frame": 6010440,
+   "start_s": 62.609,
+   "offset_hz": 2
+  },
+  {
+   "section": "her_v",
+   "bars": 24,
+   "start_frame": 8013920,
+   "start_s": 83.478,
+   "offset_hz": 3
+  },
+  {
+   "section": "his_v3",
+   "bars": 24,
+   "start_frame": 14024360,
+   "start_s": 146.087,
+   "offset_hz": 5
+  },
+  {
+   "section": "hook2",
+   "bars": 8,
+   "start_frame": 20034800,
+   "start_s": 208.696,
+   "offset_hz": 8
+  },
+  {
+   "section": "bridge",
+   "bars": 8,
+   "start_frame": 22038280,
+   "start_s": 229.565,
+   "offset_hz": 13
+  },
+  {
+   "section": "outro",
+   "bars": 10,
+   "start_frame": 24041760,
+   "start_s": 250.435,
+   "offset_hz": 1
+  }
+ ],
+ "stem_meta": {
+  "his_v1": {
+   "seconds": 45.158,
+   "rms_gain": 1.827
+  },
+  "hook": {
+   "seconds": 14.715,
+   "rms_gain": 1.9
+  },
+  "her_v": {
+   "seconds": 55.939,
+   "rms_gain": 2.186
+  },
+  "his_v3": {
+   "seconds": 56.14,
+   "rms_gain": 1.959
+  },
+  "bridge": {
+   "seconds": 14.075,
+   "rms_gain": 2.28
+  }
+ },
+ "total_seconds": 276.522,
+ "total_bars": 106,
+ "mix_peak": 1.6728,
+ "am_span_start_s": 263.278
+}

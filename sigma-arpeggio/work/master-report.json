@@ -1,0 +1,30 @@
+{
+ "history": [
+  {
+   "mix": {
+    "lufs": -12.51,
+    "tp_db": 4.47
+   }
+  },
+  {
+   "attempt": 0,
+   "ceiling": 0.8,
+   "lufs": -13.89,
+   "tp_db": -1.5
+  },
+  {
+   "final_float": {
+    "lufs": -13.89,
+    "tp_db": -1.5
+   }
+  }
+ ],
+ "master_wav": {
+  "lufs": -13.89,
+  "tp_db": -1.5
+ },
+ "mp3": {
+  "lufs": -13.93,
+  "tp_db": -1.8
+ }
+}
